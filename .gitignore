@@ -33,3 +33,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+
+uploads/
+!uploads/.gitkeep
+*.sqlite
